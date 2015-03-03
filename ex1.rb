@@ -1,5 +1,5 @@
 puts "Hello World!"
-puts "Hell Again"
+puts "Hello Again"
 puts "I like typing this."
 puts " This is fun."
 puts " Yay! Printing."
